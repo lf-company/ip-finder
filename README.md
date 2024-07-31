@@ -9,7 +9,9 @@ for example you give it port 80 and the word login it will search the web for ip
 >instllation:
 
 >git clone https://github.com/lf-company/ip-finder.git
+>
 >cd ip-finder
+>
 >python ip_finer.py
 
 >usage
